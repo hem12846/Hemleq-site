@@ -1,6 +1,6 @@
 body { 
-background-color: #1258b4;
-color: rgb(0, 0, 0);
+background-color: #ffffff;
+color: rgb(17, 17, 17);
 }
 
 nav {
@@ -11,24 +11,21 @@ nav {
   background-color: transparent;
 }
 
+
 nav a {
-color: rgb(0, 0, 0);
+  color: #3e3a3a;
 text-decoration: none;
 }
 
 nav a:hover {
  text-decoration: underline;
 }
-.des {
-   padding: 1%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-.bio {
- padding: 10%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.content {
+  max-width: 600px;
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 1.6;
+  font-size: 1.2em;
+  margin-top: 60px;
 }
