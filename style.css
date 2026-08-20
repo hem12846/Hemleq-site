@@ -21,34 +21,13 @@ nav a:hover {
  text-decoration: underline;
 }
 
-strong a {
+p a {
 color: #000000;
 text-decoration: none;
-}
-footer li a{
-color: #000000;
-text-decoration: none;
-list-style-type: none;
-}
-footer li {
-  display: flex;
-  justify-content: center;
-    list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: transparent;
-}
-footer li a:hover{
-text-decoration: underline;
-}
-
-strong a:hover {
-text-decoration: underline;
 }
 
 .content {
-  max-width: 600px;
+  max-width: 100%;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20%;
